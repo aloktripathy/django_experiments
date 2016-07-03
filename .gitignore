@@ -1,0 +1,16 @@
+# 2015.12.19
+# aloktripathy
+#
+# gitignore for Django using pyCharm
+#
+
+# files to ignore
+.coverage
+
+# extensions to ignore
+*.log
+*.pot
+*.pyc
+
+# directories to ignore
+.idea/
